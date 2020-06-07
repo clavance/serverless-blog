@@ -11,21 +11,22 @@ A user can click on the login button:
 ![](assets/1.png?raw=true)
 
 The user can then log in through Auth0:
+
 ![](assets/2.png?raw=true)
 
 With a third-party login, the user is directed to authorise Auth0 to access certain resources in their account:
 ![](assets/3.png?raw=true)
 
-Logging in for the first time, the user has no posts. The user cannot access the posts of other users.
+Logging in for the first time, the user has no posts. The user cannot access the posts of other users:
 ![](assets/4.png?raw=true)
 
 A user can make a new blog post and upload an image to the corresponding post.
-The date at which the post is made is also added.
+  The date at which the post is made is also added.
 ![](assets/5.png?raw=true)
 
 For distributed tracing, AWS X-Ray has been enabled:
 ![](assets/6.png?raw=true)
-  
+
 
 
 
