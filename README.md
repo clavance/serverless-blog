@@ -7,6 +7,7 @@ This application will allow creating/removing/updating/fetching blog post. Each 
 # Demo
 
 A user can click on the login button:
+
 ![](assets/1.png?raw=true)
 
 The user can then log in through Auth0:
@@ -24,7 +25,7 @@ The date at which the post is made is also added.
 
 For distributed tracing, AWS X-Ray has been enabled:
 ![](assets/6.png?raw=true)
-
+  
 
 
 
